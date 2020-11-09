@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorSplash">#000000</color>
+    <color name="colorJugar">#FFEB3B</color>
+    <color name="colorAjustes">#4CAF50</color>
+    <color name="colorMedallas">#2196F3</color>
+    <color name="colorInstrucciones">#DB3B0C</color>
+    <color name="colorUsuario">#9C27B0</color>
+    <color name="colorInformacion">#F44336</color>
+    <color name="colorFondoazul">#369BF4</color>
+    <color name="colorBlancoTransparente">#cccccc</color>
+    <color name="colorBlanco">#FFFFFF</color>
+    <color name="colorAmarillo">#FFEB3B</color>
+    <color name="colorTransparente">#FFFFFF80</color>
+    <color name="colorNegro">#0C0C0C</color>
+    <color name="colorMoradoNeon">#4c045d</color>
+    <color name="colorAzulNegro">#080066</color>
+    <color name="colorGris">#FC333333</color>
+    <color name="colorAzulInternet">#3377ff</color>
+    <color name="colorRojo">#F10909</color>
+</resources>

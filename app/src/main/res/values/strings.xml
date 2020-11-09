@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_contenedor_instrucciones">ContenedorInstruccionesActivity</string>
+    <string name="tab_text_1">Amarillo</string>
+    <string name="tab_text_2">Azul</string>
+    <string name="tab_text_3">Rojo</string>
+    <string name="tab_text_4">Verde</string>
+    <string name="title_activity_instrucciones">InstruccionesActivity</string>
+    <string name="title_activity_rojo">ROJOActivity</string>
+    <string-array name="tipo_entrada">
+        <item>Seleccionar Operacion</item>
+        <item>Efectivo</item>
+        <item>Deposito</item>
+    </string-array>
+    <string-array name="tipo_ingreso">
+        <item>Seleccionar Categoria de Ingreso</item>
+        <item>Remuneracion</item>
+        <item>Cortesia</item>
+        <item>Venta</item>
+        <item>Cobro</item>
+        <item>Otros</item>
+    </string-array>
+    <string-array name="tipo_gasto">
+        <item>Seleccionar Categoria de Gasto</item>
+        <item>Apartamento</item>
+        <item>Comida</item>
+        <item>Ropa</item>
+        <item>Snacks</item>
+        <item>Vehiculo</item>
+        <item>Otros</item>
+    </string-array>
+    <string-array name="tipo_movimiento">
+        <item>Seleccionar Operacion</item>
+        <item>Efectivo</item>
+        <item>Deposito</item>
+        <item>Todo</item>
+    </string-array>
+    <string-array name="tipo_Mes">
+        <item>Seleccionar Mes</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="tipo">
+        <item>Seleccionar Operacion</item>
+        <item>Entrada</item>
+        <item>Salida</item>
+        <item>Todo</item>
+    </string-array>
+</resources>
